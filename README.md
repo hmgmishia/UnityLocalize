@@ -1,0 +1,2 @@
+# UnityLocalize
+Localizeのライブラリ
