@@ -1,0 +1,10 @@
+{
+  "name": "com.hmgm.UnityLocalize",
+  "displayName": "UnityLocalize",
+  "version": "1.0.0",
+  "description": "Unityのローカライズライブラリ",
+  "keywords": ["Script", "Localize"],
+  "category": "Localize",
+  "license": "MIT",
+  "dependencies": { }
+}

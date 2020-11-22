@@ -1,0 +1,15 @@
+{
+    "name": "hmgm.UnityLocalize.Editor",
+    "references": [
+        "GUID:26dc7ee7208704e9db5e655f3ea34172"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
