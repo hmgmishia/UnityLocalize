@@ -2,6 +2,7 @@
   "name": "com.hmgm.UnityLocalize",
   "displayName": "UnityLocalize",
   "version": "0.1.0",
+  "unity": "2018.3",
   "description": "Unityのローカライズライブラリ",
   "keywords": ["Script", "Localize"],
   "category": "Localize",
