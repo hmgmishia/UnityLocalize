@@ -2,6 +2,13 @@
 Localizeのライブラリ
 現在は二通りの使い方があります
 
+## Install
+* release unitypackage 
+
+* Package Manager
+
+add "com.hmgm.unitylocalize": "https://github.com/hmgmishia/UnityLocalize.git?path=Assets/Plugins/hmgm/UnityLocalize/Scripts" to Packages/manifest.json 
+
 # Usage
 
 ## Scriptable Object
@@ -35,6 +42,7 @@ csv
 * Layout
 
 ColumnOrder: Key,Language or Default 
+
 But, Duplicate names are prohibited! 
  
 * Default Column 
