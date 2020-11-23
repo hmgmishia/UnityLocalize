@@ -16,7 +16,7 @@ add "com.hmgm.unitylocalize": "https://github.com/hmgmishia/UnityLocalize.git?pa
 ### Create
 Location: Asset Create Menu -> Create -> Localize -> Text ScriptableObject
 
-### Use
+### Use Example
 ```
 [SerializeField]
 private LocalizeTextScriptableObject scriptableObject;
@@ -49,13 +49,13 @@ But, Duplicate names are prohibited!
 
 Set Default Value. 
  
-ex: 
+csv ex: 
 |Key|English|Japanese|Default|
 |--|--|--|--|
 |Book|Book|本|Book|
 |Sword|Sword|剣|Sword|
 
-### Use
+### Use Example
 ```
 [SerializeField]
 private string localizeKey;
